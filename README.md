@@ -18,12 +18,28 @@ To run this project, you need to have the following dependencies installed:
 Clone the Repository:
 
 ```
-git clone <your-repo-link>
-cd <repo-name>
+git clone https://github.com/EzeMaza/LorenzMLIntegration
+cd LorenzMLIntegration
 ```
 Install Required Libraries: You can install the necessary dependencies using requirements.txt:
 
-bash
-Copy code
+```
 pip install -r requirements.txt
-Alternatively, you can install libraries manually:
+```
+
+Alternatively, you can install libraries manually.
+
+## Usage
+
+## Project Structure
+
+## Future Work
+
+## Contributing
+This project is open for contributions! Feel free to fork the repository, submit issues, or suggest new features.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+If you have any feedback, suggestions, or want to collaborate, feel free to reach out!
